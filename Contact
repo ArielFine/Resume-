@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en"></html>
+
+<head>
+    <title>My Contact</title> 
+</head>
+
+<body>
+   <p>reach me at:</p> 
+    <ul>
+        <li><a href="https://example.com">Website</a></li>
+        <li><a href="mailto:arielfine613@gmail.com">Email</a></li>
+        <li><a href="tel:+19342239231">Phone</a></li>
+      </ul>
+</body>
